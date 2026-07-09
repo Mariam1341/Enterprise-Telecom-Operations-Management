@@ -226,11 +226,6 @@ Planned enhancements:
 - Performance Analytics for long-term SLA/outage trend analysis
 - Billing system integration for automated compensation payouts
 
-## Author
-
-**[Your Name]** — ITI Graduate, ServiceNow Platform Administration & Development Track
-📧 [your.email@example.com] · 🔗 [LinkedIn](#) · 💻 [GitHub](#)
-
 ---
 
 *This project was built for educational purposes as part of the ITI graduation program and runs on a ServiceNow PDI (Personal Developer Instance).*
