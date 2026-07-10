@@ -39,7 +39,7 @@ Built as an ITI (Information Technology Institute) graduation project on the Ser
 |---|---|
 | **Project Name** | Enterprise Telecom Operations Management Platform |
 | **Platform** | ServiceNow Personal Developer Instance (PDI) |
-| **Application Scope** | `x_telcom_ops` |
+| **Application Scope** | `x_1979775_enterp_0` |
 | **Application Type** | Scoped Application |
 | **Track** | ServiceNow Fundamentals + Development (CSA + CAD + ITSM + Portal) |
 
@@ -76,7 +76,7 @@ This project addresses each of these using native ServiceNow capabilities — no
 
 ## Data Model
 
-Six custom tables under the `x_telcom_ops` scope. Three extend the out-of-the-box **Task** table (inheriting `Number`, `State`, `Priority`, `Assigned To`, `Assignment Group`, `Comments`, `Work Notes` — never duplicated).
+Six custom tables under the `(x_1979775_enterp_0` scope. Three extend the out-of-the-box **Task** table (inheriting `Number`, `State`, `Priority`, `Assigned To`, `Assignment Group`, `Comments`, `Work Notes` — never duplicated).
 
 | # | Table | Extends | Purpose |
 |---|---|---|---|
