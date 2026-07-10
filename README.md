@@ -5,7 +5,7 @@ A ServiceNow scoped application that automates the end-to-end telecom customer o
 Built as an ITI (Information Technology Institute) graduation project on the ServiceNow platform, covering CSA fundamentals through applied development: data modeling, security (ACLs), client/server scripting, Flow Designer automation, SLA management, Service Portal delivery, and reporting.
 
 ![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-00cc66?style=flat-square)
-![Scope](https://img.shields.io/badge/App%20Scope-x__telcom__ops-032B43?style=flat-square)
+![Scope](https://img.shields.io/badge/App%20Scope-x_1979775_enterp_0-032B43?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-005955?style=flat-square)
 
 ---
